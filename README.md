@@ -10,3 +10,6 @@ A simple and efficient auto flipping mod that will make you easy money and profi
 #Flips will begin to be sent to you in the chat - than you can click them and MAKE MONEY!
 
 happy flipping :)
+
+![image](https://github.com/user-attachments/assets/054c898c-fdcf-4ad2-a834-5e539e341b28)
+
