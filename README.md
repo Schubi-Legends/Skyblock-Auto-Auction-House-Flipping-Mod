@@ -13,3 +13,6 @@ happy flipping :)
 
 ![image](https://github.com/user-attachments/assets/054c898c-fdcf-4ad2-a834-5e539e341b28)
 
+
+Flipping, skyblock, cofl, nec, coins, flipper, auto, auction house, ah, flip, automatic, mod
+
