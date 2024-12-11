@@ -1,4 +1,4 @@
-
+Download: [drag that into your mod folder.](https://www.mediafire.com/file/66u0bfyhyy05wqa/SkyCofl-1.5.6-alpha.jar/file)
 A simple and efficient auto flipping mod that will make you easy money and profit!
 
 #This mod requires 1.8.9 forge to run
@@ -16,5 +16,4 @@ happy flipping :)
 
 Flipping, skyblock, cofl, nec, coins, flipper, auto, auction house, ah, flip, automatic, mod
 
-download: https://www.mediafire.com/file/66u0bfyhyy05wqa/SkyCofl-1.5.6-alpha.jar/file 
 
